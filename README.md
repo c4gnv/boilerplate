@@ -1,10 +1,8 @@
 # Tasks to bootstrap your new project
 
-* [ ]
-* [ ]
+* 
 
-
-[![Build Status](INSERT CI BADGE LINK)
+INSERT CI TESTING BADGES
 
 # INSERT PROJECT NAME
 
