@@ -1,14 +1,29 @@
-# Tasks to bootstrap your new project
-
-* 
-
-INSERT CI TESTING BADGES
-
 # INSERT PROJECT NAME
 
-INSERT PROJECT DESCRIPTION
+## Description
+
+## Environments
+
+* Dev
+* Staging
+* Production
+
+## Team
+
+* Project lead: 
 
 ## Contributing
 
-We welcome your contribution! Please see our
-[contributing guidelines](INSERT LINK TO CONTRIBUTING DOC).
+We welcome your contribution! Please see our [contributing guidelines]().
+
+## Install
+
+### Dependencies
+
+### Clone the repository
+
+### Install dependencies
+
+### Running
+
+## Architecture
